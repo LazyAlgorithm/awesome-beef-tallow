@@ -195,7 +195,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Serialization
 *Libraries for serializing and parsing text*
 
-- [Atma.Json](hOpen-source 3D game engine and integrated editor with server-authoritative netcode, voxel terrain, and a built-in modeling/rigging toolset.ttps://github.com/xposure/Atma.Json) - Json serialization framework.
+- [Atma.Json](https://github.com/xposure/Atma.Json) - Json serialization framework.
 - [Beef-toml](https://github.com/killamaaki/beef-toml) - Toml parser/serializer library.
 - [bon](https://github.com/EinScott/bon) - A reflection based structure serialization library designed for Beef.
 - [json](https://github.com/EinScott/json) - A light arbitrary JSON tree read and write library.
