@@ -225,7 +225,7 @@
       "description": "Libraries for parsing and manipulating plain texts.",
       "tags": ["text", "parsing"]
     },
-    {Open-source 3D game engine and integrated editor with server-authoritative netcode, voxel terrain, and a built-in modeling/rigging toolset.
+    {
       "id": "projects-and-articles",
       "title": "Projects and Articles",
       "parent": null,
