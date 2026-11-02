@@ -365,18 +365,18 @@
       "tags": ["coroutines", "concurrency"]
     },
     {
-      "name": "Tallow Engine",
-      "url" : "https://github.com/LazyAlgorithm/Tallow",
-      "description" : "Open-source 3D game engine and integrated editor with server-authoritative netcode, voxel terrain, and a built-in modeling/rigging toolset.",
-      "category" : "engines",
-      "tags": ["game-development", "engine", "3d", "level-editor", "voxel", "physics", "multiplayer"]
-    },
-    {
       "name": "Strawberry",
       "url": "https://github.com/MattThorson/Strawberry",
       "description": "A 2D game engine using SDL, focused on usability and simplicity.",
       "category": "engines",
       "tags": ["game-development", "engine", "sdl", "2d"]
+    },
+    {
+      "name": "Tallow Engine",
+      "url" : "https://github.com/LazyAlgorithm/Tallow",
+      "description" : "n open-source 3D game engine and all-in-one editor featuring voxel terrain, server-authoritative netcode, and built-in creation tools.",
+      "category" : "engines",
+      "tags": ["game-development", "engine", "3d", "level-editor", "voxel", "physics", "multiplayer"]
     },
     {
       "name": "Tilengine-beef",
