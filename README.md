@@ -103,8 +103,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Awesome game development libraries and frameworks.*
 
 ### Engines
-- [Tallow Engine](https://github.com/LazyAlgorithm/Tallow) - Open-source 3D game engine and integrated editor with server-authoritative netcode, voxel terrain, and a built-in modeling/rigging toolset.
 - [Strawberry](https://github.com/MattThorson/Strawberry) - A 2D game engine using SDL, focused on usability and simplicity.
+- [Tallow Engine](https://github.com/LazyAlgorithm/Tallow) - n open-source 3D game engine and all-in-one editor featuring voxel terrain, server-authoritative netcode, and built-in creation tools.
 - [Tilengine-beef](https://github.com/rootbeerking/Tilengine-Beef) - Beef Language wrapper for Tilengine 2D Graphics Engine.
 
 ### Frameworks
