@@ -103,6 +103,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Awesome game development libraries and frameworks.*
 
 ### Engines
+- [Tallow Engine](https://github.com/LazyAlgorithm/Tallow) - Open-source 3D game engine and integrated editor with server-authoritative netcode, voxel terrain, and a built-in modeling/rigging toolset.
 - [Strawberry](https://github.com/MattThorson/Strawberry) - A 2D game engine using SDL, focused on usability and simplicity.
 - [Tilengine-beef](https://github.com/rootbeerking/Tilengine-Beef) - Beef Language wrapper for Tilengine 2D Graphics Engine.
 
@@ -194,7 +195,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Serialization
 *Libraries for serializing and parsing text*
 
-- [Atma.Json](https://github.com/xposure/Atma.Json) - Json serialization framework.
+- [Atma.Json](hOpen-source 3D game engine and integrated editor with server-authoritative netcode, voxel terrain, and a built-in modeling/rigging toolset.ttps://github.com/xposure/Atma.Json) - Json serialization framework.
 - [Beef-toml](https://github.com/killamaaki/beef-toml) - Toml parser/serializer library.
 - [bon](https://github.com/EinScott/bon) - A reflection based structure serialization library designed for Beef.
 - [json](https://github.com/EinScott/json) - A light arbitrary JSON tree read and write library.
